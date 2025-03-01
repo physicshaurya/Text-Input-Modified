@@ -1,0 +1,7 @@
+.read-only lightning-input {
+    background-color: #f4f6f9; /* Gray background for read-only fields */
+}
+
+.disabled lightning-input {
+    opacity: 0.5; /* Dimmed appearance for disabled fields */
+}
